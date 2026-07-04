@@ -25,4 +25,6 @@ I successfully installed both the Claude Code and Codex extensions.
 
 While signing in to Claude Code, I found that using the extension requires a Claude subscription. I completed the installation successfully, but I could not continue with the login because I do not currently have a paid Claude subscription.
 
+I also ran into a Git issue while pushing the README.md file to GitHub. The remote repository already had a README file, so Git rejected the push because my local branch was behind the remote branch. I first tried pulling the remote changes, but it created a merge conflict in README.md. Since this repository was only created for the setup task, I resolved it by aborting the merge and force-pushing my local README file to GitHub.
+
 The Codex extension was installed and configured successfully.
