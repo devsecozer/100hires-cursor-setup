@@ -13,7 +13,7 @@
 
 **Date:** 2026-07-07  
 **Source:** LinkedIn activity feed  
-**Post link:** TODO: Add LinkedIn post URL
+**Post link:** https://www.linkedin.com/posts/kevinindig_a-benchmark-only-earns-ai-citations-where-activity-7480191394486243328-_TVs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgB8nABDeR0WogGDGHw61v5t9kxQHurc_0 
 
 **Summary:**  
 Kevin explains that benchmarks tend to earn AI citations when the user question involves measurable comparisons such as speed, cost, latency, yield, or performance. He notes that primary research is more likely to be cited when it answers a clear "which is best" comparison with structured numbers.
@@ -30,7 +30,7 @@ Original research works best when it gives AI systems clear, extractable, compar
 
 **Date:** 2026-07-06  
 **Source:** LinkedIn activity feed  
-**Post link:** TODO: Add LinkedIn post URL
+**Post link:** https://www.linkedin.com/posts/kevinindig_publishing-original-data-is-necessary-but-activity-7479821388103528448-izR8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgB8nABDeR0WogGDGHw61v5t9kxQHurc_0 
 
 **Summary:**  
 Kevin argues that publishing original data is useful, but not enough by itself. The format that appears to earn AI citations most consistently is benchmark content, where named options are compared against specific measurable criteria.
@@ -47,7 +47,7 @@ A strong AI-era SEO asset is not just original; it is structured in a way that A
 
 **Date:** 2026-07-06  
 **Source:** LinkedIn activity feed  
-**Post link:** TODO: Add LinkedIn post URL
+**Post link:** https://www.linkedin.com/posts/kevinindig_building-aeo-systems-that-scale-webflow-activity-7479607120657727490-F6JZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgB8nABDeR0WogGDGHw61v5t9kxQHurc_0 
 
 **Summary:**  
 Kevin discusses the difficulty of scaling AEO beyond single-page optimization. He points out that large sites face challenges such as thousands of pages, multiple teams, CMS limits, old SEO debt, and unpredictable AI systems.
@@ -64,7 +64,7 @@ AEO and AI search optimization become harder at scale, so content production nee
 
 **Date:** 2026-07-03  
 **Source:** LinkedIn activity feed  
-**Post link:** TODO: Add LinkedIn post URL
+**Post link:** https://www.linkedin.com/posts/kevinindig_search-clicks-are-fading-so-we-need-to-make-activity-7478755153291067392-pSFh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgB8nABDeR0WogGDGHw61v5t9kxQHurc_0 
 
 **Summary:**  
 Kevin notes that search clicks are declining, which means brands need to make better use of the traffic they still receive. He frames audience building as a response to reduced search click availability.
@@ -81,7 +81,7 @@ AI-era SEO content should support audience building, not only search traffic.
 
 **Date:** 2026-07-03  
 **Source:** LinkedIn activity feed  
-**Post link:** TODO: Add LinkedIn post URL
+**Post link:** https://www.linkedin.com/posts/kevinindig_everyone-says-publish-original-research-activity-7478394600118800384-hfwc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgB8nABDeR0WogGDGHw61v5t9kxQHurc_0 
 
 **Summary:**  
 Kevin explains that an aggregator can repackage another brand's benchmark data into a clearer answer-ready format and win the AI citation. He emphasizes that owning the data is not enough if the information is buried or poorly structured.
